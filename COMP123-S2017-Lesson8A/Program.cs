@@ -11,6 +11,11 @@ namespace COMP123_S2017_Lesson8A
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("-------------");
+            Console.WriteLine();
+
+            Person person = new Person("Tom", 25);
+            person.Talks();
         }
     }
 }
