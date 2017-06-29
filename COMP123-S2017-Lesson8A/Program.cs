@@ -20,6 +20,9 @@ namespace COMP123_S2017_Lesson8A
             Student student = new Student("John", 19, "123456789A");
             student.Studies();
             student.Talks();
+
+            DomesticStudent domestic = new DomesticStudent("Mary", 21, "123456788B");
+            domestic.Talks();
         }
     }
 }

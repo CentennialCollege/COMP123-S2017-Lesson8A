@@ -9,7 +9,7 @@ namespace COMP123_S2017_Lesson8A
     /// <summary>
     /// This is the Person Super Class
     /// </summary>
-    class Person
+    public class Person
     {
         // PRIVATE INSTANCE VARIABLES (FIELDS)
         private string _name;
