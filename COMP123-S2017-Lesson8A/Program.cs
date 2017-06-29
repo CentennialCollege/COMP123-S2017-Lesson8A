@@ -10,6 +10,7 @@ namespace COMP123_S2017_Lesson8A
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
         }
     }
 }
